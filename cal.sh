@@ -5,6 +5,9 @@ this is addition
 
 x=a+b
 
+division
+
+x=a/b
 
 
 This is subtraction
