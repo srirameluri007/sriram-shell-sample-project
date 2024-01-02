@@ -1,6 +1,9 @@
-a1b2c3
+this is addition
 
-a2b3c4
+x=a+b
 
-x= a+b
 
+
+This is subtraction
+
+x=a-b
